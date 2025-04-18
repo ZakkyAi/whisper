@@ -1,0 +1,7 @@
+Belajar convert text to image via open AI 
+c:\Users\zakky\Downloads\5Tahap.mp3
+
+pip install openai-whisper
+whisper yourfile.mp3 --language Indonesian --model small
+
+pip install git+https://github.com/openai/whisper.git
